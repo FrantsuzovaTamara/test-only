@@ -1,0 +1,17 @@
+.button_opened {
+  width: max-content;
+  height: 38px;
+  border-radius: 40px;
+  visibility: visible;
+  padding-left: 40px;
+  opacity: 1;
+  font-size: 14px;
+}
+
+.button_opened:before {
+  content: "\2014";
+  font-size: 14px;
+  font-weight: 600;
+  height: 38px;
+  background: none;
+}
