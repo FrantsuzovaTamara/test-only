@@ -5,18 +5,18 @@
 
 @import url(../blocks/button/button.css);
 
-@import url(../blocks/button/_color/_blue/button_color_blue.css);
-@import url(../blocks/button/_color/_green/button_color_green.css);
+@import url(../blocks/button/color/blue/button_color_blue.css);
+@import url(../blocks/button/color/green/button_color_green.css);
 
-@import url(../blocks/button/_opened/button_opened.css);
+@import url(../blocks/button/opened/button_opened.css);
 
-@import url(../blocks/button/_position/_bridge/button_position_bridge.css);
-@import url(../blocks/button/_position/_embankment-house/button_position_embankment-house.css);
-@import url(../blocks/button/_position/_extension/button_position_extension.css);
-@import url(../blocks/button/_position/_five-story-house-1/button_position_five-story-house-1.css);
-@import url(../blocks/button/_position/_five-story-house-2/button_position_five-story-house-2.css);
-@import url(../blocks/button/_position/_historical-building/button_position_historical-building.css);
-@import url(../blocks/button/_position/_microdistrict/button_position_microdistrict.css);
-@import url(../blocks/button/_position/_new-building/button_position_new-building.css);
-@import url(../blocks/button/_position/_stadium/button_position_stadium.css);
-@import url(../blocks/button/_position/_two-storey-house/button_position_two-storey-house.css);
+@import url(../blocks/button/position/bridge/button_position_bridge.css);
+@import url(../blocks/button/position/embankment-house/button_position_embankment-house.css);
+@import url(../blocks/button/position/extension/button_position_extension.css);
+@import url(../blocks/button/position/five-story-house-1/button_position_five-story-house-1.css);
+@import url(../blocks/button/position/five-story-house-2/button_position_five-story-house-2.css);
+@import url(../blocks/button/position/historical-building/button_position_historical-building.css);
+@import url(../blocks/button/position/microdistrict/button_position_microdistrict.css);
+@import url(../blocks/button/position/new-building/button_position_new-building.css);
+@import url(../blocks/button/position/stadium/button_position_stadium.css);
+@import url(../blocks/button/position/two-storey-house/button_position_two-storey-house.css);
